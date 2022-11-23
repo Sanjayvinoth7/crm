@@ -1,0 +1,56 @@
+.navbar{
+    background: #4e73df;
+}
+
+.sidebar{
+    
+    width: 250px;
+    height: 100vh;
+    background: #4e73df;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: center;
+}
+.sidebutton{
+    width: 240px;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+.sidebtn{
+    
+    box-shadow: 0 5px 15px  rgba(116, 38, 38, 0.705);
+    backdrop-filter: blur(2px);
+    background: rgba(255, 255, 255, 0.336)!important;
+    color: white !important;
+}
+.nameicon{
+    color: white;
+}
+
+.chart{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.m{
+    margin-left: 150px;
+}
+.back{
+    background: #4e73df;
+    border-radius: 12px;
+    color: white;
+}
+
+
+.container{
+    align-items: center; 
+    margin-left: 300px !important;
+}
